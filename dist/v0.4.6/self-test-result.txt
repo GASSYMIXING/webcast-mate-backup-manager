@@ -1,0 +1,1 @@
+PASS: native restore, no automatic backup, integrity/path validation, device remapping, target camera format and encoder preservation, original ZIP collection (9), app-folder archive and custom copy, optional embedded tool availability, extraction and repair.
